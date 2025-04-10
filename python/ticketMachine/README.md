@@ -10,9 +10,9 @@ The ticket machine application initializes and sets up the main window, loads ba
 
 - `main.py`: This module initializes the ticket machine application, sets up the main window, loads background images, creates the screen and buttons, and starts the main loop.
 - `image_loader.py`: Module responsible for loading background images.
-- `screen.py`: Module responsible for creating the application screen to display the ptogram output.
+- `screen.py`: Module responsible for creating the application screen to display the program output.
 - `buttons.py`: Module responsible for creating the application buttons.
-- `turns.py`: Module responsible for have the turns algorithm for each button.
+- `turns.py`: Module responsible for handling the turns algorithm for each button.
 
 ## Installation
 
