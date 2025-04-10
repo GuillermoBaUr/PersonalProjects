@@ -32,7 +32,7 @@ python main.py
 ```
 ## Video Demonstration
 
-Watch the video demonstration of the application, titled "Ticket Machine Functionality," [here](url).
+Watch the video demonstration of the application, titled "Ticket Machine Functionality," [here](https://youtu.be/OD26yUGbAiE).
 
 
 ## Usage
