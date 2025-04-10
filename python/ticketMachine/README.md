@@ -30,6 +30,10 @@ cd PersonalProjects/python/ticketMachine/
 ```bash
 python main.py
 ```
+## Video Demonstration
+
+Watch the video demonstration of the application, titled "Ticket Machine Functionality," [here](url).
+
 
 ## Usage
 Run the main.py file to start the application.
