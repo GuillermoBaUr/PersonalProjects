@@ -8,7 +8,7 @@ This repository contains various personal projects developed in different progra
 
 1. **Ticket Machine Application**
    - Description: A ticket machine application developed using Tkinter.
-   - Link: https://github.com/GuillermoBaUr/PersonalProjects/tree/main/python/ticketMachine
+   - Link: https://github.com/GuillermoBaUr/Ticket_Machine
 
 ### C Projects
 
