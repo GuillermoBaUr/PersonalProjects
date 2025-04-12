@@ -1,3 +1,5 @@
+# STM32 Project - CRJ-200 Autopilot Panel Control
+
 ## Description
 
 This project uses an STM32 microcontroller to send the data to the X-Plane 11 simulator to control the CRJ-200 autopilot panel. The main code is located in `main.c`, where peripherals are configured, interrupts are handled, and inputs and outputs are managed.
