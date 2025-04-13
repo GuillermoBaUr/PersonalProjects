@@ -1,6 +1,6 @@
 # Personal Projects
 
-Welcome to my Personal Projects repository. This repository serves as a central hub for all my Python projects, providing links to individual repositories where you can find detailed documentation, source code, and installation instructions.
+Welcome to my Personal Projects repository. This repository serves as a central hub for all my projects, providing links to individual repositories where you can find detailed documentation, source code, and installation instructions.
 
 ## Projects
 
@@ -23,6 +23,8 @@ Welcome to my Personal Projects repository. This repository serves as a central 
 
 ## Contact
 If you have any questions or suggestions, please feel free to reach out to me via GitHub or email. I am always open to feedback and collaboration.
+
+Email: gbadillouribe2759@conestogac.on.ca
 
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
