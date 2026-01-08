@@ -24,7 +24,7 @@ Welcome to my Personal Projects repository. This repository serves as a central 
 ## Contact
 If you have any questions or suggestions, please feel free to reach out to me via GitHub or email. I am always open to feedback and collaboration.
 
-Email: gbadillouribe2759@conestogac.on.ca
+Email: badillouribeguillermoca@gmail.com
 
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
