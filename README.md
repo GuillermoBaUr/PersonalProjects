@@ -24,7 +24,7 @@ Key features:
 ---
 
 
-### **FreeRTOS Whack‑A‑Mole – STM32 Real‑Time Game**
+### **2. FreeRTOS Whack‑A‑Mole – STM32 Real‑Time Game**
 **C | STM32F4 | FreeRTOS | Queues | Semaphores | Timers | OLED (SSD1331)**
 
 A real‑time embedded system implemented on an STM32 microcontroller using FreeRTOS.  
