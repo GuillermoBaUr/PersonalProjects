@@ -76,6 +76,10 @@ Highlights:
 ### **2. Ticket Machine Application**
 **Python | Tkinter | UI Design**
 
+<p align="center">
+  <img src="Img_project/kiosk-developed.png" width="520" />
+</p
+
 A desktop ticket‑issuing interface built with Tkinter, demonstrating structured UI development.
 
 🔗 **Repository:** [Link to Repository](https://github.com/GuillermoBaUr/Ticket_Machine) 
