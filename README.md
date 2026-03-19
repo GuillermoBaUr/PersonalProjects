@@ -24,6 +24,26 @@ Key features:
 ---
 
 
+### **FreeRTOS Whack‑A‑Mole – STM32 Real‑Time Game**
+**C | STM32F4 | FreeRTOS | Queues | Semaphores | Timers | OLED (SSD1331)**
+
+A real‑time embedded system implemented on an STM32 microcontroller using FreeRTOS.  
+The project recreates a Whack‑A‑Mole style game using LEDs, input buttons, and an SPI OLED display.
+
+Key features include:
+
+- Multiple FreeRTOS tasks (display, game loop, timer, scoring)
+- Message queues for ISR‑to‑task communication
+- Semaphores to synchronize OLED updates and turn progression
+- Software timer callback for randomized LED selection
+- EXTI interrupts for button input with debouncing
+- SPI‑driven SSD1331 OLED to display score and countdown
+- Deterministic timing and non‑blocking task behavior
+
+🔗 **Repository:**  [Link to Repository](https://github.com/GuillermoBaUr/whackamole-rtos)
+
+---
+
 ## 🐍 Python Projects
 
 ### **1. Metroliner III Pedestal Simulation – Touch Display Framework**
