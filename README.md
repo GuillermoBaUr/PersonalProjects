@@ -10,6 +10,10 @@ Each project links to its own repository with **source code**, **documentation**
 ### **1. CRJ‑200 Autopilot Panel – STM32 Firmware**
 **C | STM32F4 | Interrupts | UART | Encoders | LEDs | Data Packing**
 
+<p align="center">
+  <img src="Img_project/CRJ-200.jpg" width="520" />
+</p
+
 A custom firmware solution that interfaces a physical CRJ‑200 autopilot panel with the X‑Plane simulator.
 
 Key features:
@@ -26,6 +30,10 @@ Key features:
 
 ### **2. FreeRTOS Whack‑A‑Mole – STM32 Real‑Time Game**
 **C | STM32F4 | FreeRTOS | Queues | Semaphores | Timers | OLED (SSD1331)**
+
+<p align="center">
+  <img src="Img_project/Whack-A-Mole.jpeg" width="520" />
+</p
 
 A real‑time embedded system implemented on an STM32 microcontroller using FreeRTOS.  
 The project recreates a Whack‑A‑Mole style game using LEDs, input buttons, and an SPI OLED display.
@@ -48,6 +56,10 @@ Key features include:
 
 ### **1. Metroliner III Pedestal Simulation – Touch Display Framework**
 **Python | Raspberry Pi | Multithreading | UDP | Tkinter GUI**
+
+<p align="center">
+  <img src="Img_project/Pedestal.png" width="520" />
+</p
 
 A fully animated touchscreen simulation of the Metroliner III pedestal for aviation training systems.
 
