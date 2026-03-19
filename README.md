@@ -1,30 +1,79 @@
-# Personal Projects
+# Personal Projects Portfolio
 
-Welcome to my Personal Projects repository. This repository serves as a central hub for all my projects, providing links to individual repositories where you can find detailed documentation, and source code.
+Welcome to my Personal Projects repository, a hub showcasing the embedded systems, firmware, and software projects I’ve built.  
+Each project links to its own repository with **source code**, **documentation**, and in some cases **demo videos**.
 
-## Projects
+# Featured Projects
 
-### Python Projects
+## 🔧 Embedded Systems / C Project
 
-1. **Metroliner III Pedestal Simulation – Touch Display Framework**
-   - Description: A touchscreen-based simulation of the Metroliner III pedestal, built with a multithreaded event-driven architecture in Python. Optimized for Raspberry Pi and designed to communicate with X-Plane      via UDP for real-time synchronization. [Link](https://github.com/GuillermoBaUr/Metroliner-III-Pedestal-Display)
+### **1. CRJ‑200 Autopilot Panel – STM32 Firmware**
+**C | STM32F4 | Interrupts | UART | Encoders | LEDs | Data Packing**
 
-2. **Ticket Machine Application**
-   - Description: A ticket machine application developed using Tkinter. [Link](https://github.com/GuillermoBaUr/Ticket_Machine)
+A custom firmware solution that interfaces a physical CRJ‑200 autopilot panel with the X‑Plane simulator.
 
-### C Projects
+Key features:
+- Encoder direction detection via EXTI interrupts  
+- Button debouncing and state‑change logic  
+- Linked‑list event queue for reliable transmission  
+- Bit‑packed 8‑bit command protocol  
+- LED output parsing with delta‑update logic  
 
-1. **STM32 Project - CRJ-200 Autopilot Panel Control**
-    - Description: This project uses an STM32 microcontroller to send data to the X-Plane 11 simulator to control the CRJ-200 autopilot panel. The main code is located in `main.c`, where peripherals are configured, interrupts are handled, and inputs and outputs are managed. [Link](https://github.com/GuillermoBaUr/CRJ-200_Autopilot_Panel_STM32)
-      
-## How to Use
-- Explore the Projects: Click on the links above to navigate to the individual project repositories.
+🔗 **Repository:** [Link to Repository](https://github.com/GuillermoBaUr/CRJ-200_Autopilot_Panel_STM32)
 
-## Contact
-If you have any questions or suggestions, please feel free to reach out to me via GitHub or email. I am always open to feedback and collaboration.
+---
 
-Email: badillouribeguillermoca@gmail.com
 
-## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+## 🐍 Python Projects
 
+### **1. Metroliner III Pedestal Simulation – Touch Display Framework**
+**Python | Raspberry Pi | Multithreading | UDP | Tkinter GUI**
+
+A fully animated touchscreen simulation of the Metroliner III pedestal for aviation training systems.
+
+Highlights:
+- Multithreaded event‑driven architecture  
+- Real‑time UDP link with X‑Plane  
+- Image‑based control widgets and animations  
+- UI callback framework for system integration  
+
+🔗 **Repository:** [Link to Repository](https://github.com/GuillermoBaUr/Metroliner-III-Pedestal-Display)
+
+---
+
+### **2. Ticket Machine Application**
+**Python | Tkinter | UI Design**
+
+A desktop ticket‑issuing interface built with Tkinter, demonstrating structured UI development.
+
+🔗 **Repository:** [Link to Repository](https://github.com/GuillermoBaUr/Ticket_Machine) 
+
+--- 
+
+ 👤 About Me
+
+I’m a Mechatronics Engineer with experience across electronics, control systems, robotics, and embedded programming :
+
+- STM32 firmware (C/C++)  
+- FreeRTOS and real‑time design  
+- Python simulation frameworks  
+- Hardware‑software integration  
+- Communication protocols (UART, SPI, I2C, UDP)
+
+I focus on building systems that combine **clear architecture**, **robust communication**, and **deterministic real‑time behavior**, from both my **Mechatronics Engineering foundation** and my experience in **software development, testing, and embedded systems**.
+
+---
+
+# 📬 Contact
+
+If you'd like to collaborate or have any questions:
+
+📧 **badillouribeguillermoca@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/guillermo-badillo-uribe-382301228/
+
+---
+
+# 📝 License
+
+This repository is licensed under the MIT License.  
+See the `LICENSE` file for more details.
