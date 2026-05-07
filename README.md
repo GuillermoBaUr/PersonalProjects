@@ -73,11 +73,11 @@ Highlights:
 
 ---
 
-### **2. SGI Data Extractor – Academic Metrics Automation**
+### **2. SGC Data Extractor – Academic Metrics Automation**
 **Python | Tkinter | Multithreading | Regex | MS Word COM | Excel Automation**
 
 <p align="center">
-  <img src="Img_project/SGI-Extractor.png" width="520" />
+  <img src="Img_project/SGI-Extractor.png" width="520" height="420" />
 </p>
 
 An automation tool designed to extract and consolidate academic metrics from institutional SGI documents into professional Excel reports.
