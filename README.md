@@ -93,7 +93,7 @@ Highlights:
 
 --- 
 
- 👤 About Me
+# 👤 About Me
 
 I’m a Mechatronics Engineer with experience across electronics, control systems, robotics, and embedded programming :
 
