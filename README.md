@@ -73,16 +73,23 @@ Highlights:
 
 ---
 
-### **2. Ticket Machine Application**
-**Python | Tkinter | UI Design**
+### **2. SGI Data Extractor – Academic Metrics Automation**
+**Python | Tkinter | Multithreading | Regex | MS Word COM | Excel Automation**
 
 <p align="center">
-  <img src="Img_project/kiosk-developed.png" width="520" />
-</p
+  <img src="Img_project/SGI-Extractor.png" width="520" />
+</p>
 
-A desktop ticket‑issuing interface built with Tkinter, demonstrating structured UI development.
+An automation tool designed to extract and consolidate academic metrics from institutional SGI documents into professional Excel reports.
 
-🔗 **Repository:** [Link to Repository](https://github.com/GuillermoBaUr/Ticket_Machine) 
+Highlights:
+- **Multithreaded Architecture**: Background processing ensures a responsive UI during heavy I/O operations.
+- **Automated Document Conversion**: Interfaces with Microsoft Word COM API to convert legacy `.doc` files to `.docx` automatically.
+- **Advanced Regex Parsing**: Robust extraction of teacher data, subjects, and tracking tables, even across complex paragraph splits.
+- **Recursive Processing**: Scans entire directories and deep-reads inside `.zip` archives to locate relevant documentation.
+- **Formatted Data Export**: Generates styled Excel workbooks with frozen panes, alternating row colors, and auto-adjusted layouts.
+
+🔗 **Repository:** [Link to Repository](https://github.com/GuillermoBaUr/data-extraction-project)
 
 --- 
 
@@ -104,7 +111,7 @@ I focus on building systems that combine **clear architecture**, **robust commun
 
 If you'd like to collaborate or have any questions:
 
-📧 **badillouribeguillermoca@gmail.com**  
+📧 **Email:** [badillouribeguillermoca@gmail.com](mailto:badillouribeguillermoca@gmail.com)  
 🔗 **LinkedIn:** https://www.linkedin.com/in/guillermo-badillo-uribe-382301228/
 
 ---
